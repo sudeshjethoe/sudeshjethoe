@@ -3,7 +3,6 @@
 <!--
 **sudeshjethoe/sudeshjethoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on enabling public cloud for large organizations :cloud:
 - 🌱 I’m ``currently learning`` just finished my [MBA in Big Data & Business Analytics](https://abs.uva.nl/content/executive-master/mba-big-data--business-analytics/mba-big-data.html) :mortar_board: 
