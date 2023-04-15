@@ -6,7 +6,7 @@
 
 - 💬 Ask me about IT strategy and architecture, here is my [resume](https://dynamicautomation.nl/assets/documents/cv.pdf)
 - 🔭 I’m currently working on enabling public cloud for large organizations, check out my [portfolio](https://dynamicautomation.nl/portfolio/) :cloud:
-- 🌱 I’m ``currently learning`` just finished my [MBA in Big Data & Business Analytics](https://abs.uva.nl/content/executive-master/mba-big-data--business-analytics/mba-big-data.html) :mortar_board: 
+- 🌱 I’m ``currently learning`` diagrams.net
 - 👯 I’m looking to collaborate on challenging new projects related to cloud, observability, data or infrastructure :satellite:
 - 📫 Look [here](https://dynamicautomation.nl/contact/) for ways of getting in touch with me
 - ⚡ Fun fact: love dancing salsa, bachata and [kizomba](https://www.youtube.com/watch?v=GTttjkcUfbc) :dancer:
